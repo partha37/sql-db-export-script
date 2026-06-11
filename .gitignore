@@ -1,0 +1,34 @@
+# SQL export files (large and sensitive)
+*.sql
+*.bak
+
+# PowerShell
+*.ps1xml
+*.psd1
+*.psm1
+
+# Logs
+*.log
+
+# Credentials and sensitive files
+*.config
+*.conf
+.env
+secrets.txt
+credentials.txt
+
+# Output directories
+output/
+backups/
+exports/
+D:\Backups\
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
